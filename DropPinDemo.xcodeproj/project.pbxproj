@@ -11,6 +11,7 @@
 		33694F2B25167C9D009FD978 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33694F2A25167C9D009FD978 /* ContentView.swift */; };
 		33694F2D25167C9E009FD978 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33694F2C25167C9E009FD978 /* Assets.xcassets */; };
 		33694F3025167C9E009FD978 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33694F2F25167C9E009FD978 /* Preview Assets.xcassets */; };
+		33694F3925167CBE009FD978 /* DropPin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33694F3825167CBE009FD978 /* DropPin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		33694F2C25167C9E009FD978 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		33694F2F25167C9E009FD978 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		33694F3125167C9E009FD978 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		33694F3825167CBE009FD978 /* DropPin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DropPin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				33694F2825167C9D009FD978 /* DropPinDemoApp.swift */,
 				33694F2A25167C9D009FD978 /* ContentView.swift */,
+				33694F3825167CBE009FD978 /* DropPin.swift */,
 				33694F2C25167C9E009FD978 /* Assets.xcassets */,
 				33694F3125167C9E009FD978 /* Info.plist */,
 				33694F2E25167C9E009FD978 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				33694F2B25167C9D009FD978 /* ContentView.swift in Sources */,
+				33694F3925167CBE009FD978 /* DropPin.swift in Sources */,
 				33694F2925167C9D009FD978 /* DropPinDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
