@@ -20,7 +20,7 @@ If you think you can improve the shape, or the demo, feel free to open a pull re
 
 # License
 
-...
+See LICENSE.
 
 # Credits
 
